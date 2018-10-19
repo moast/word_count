@@ -9,5 +9,5 @@ User types: "The weather is awesome but the sun is shy!"
 Distinct words: 7
 
 Repetetion: 
-"is" repeated 2 times
+"is" repeated 2 times, 
 "the" repeated 2 times
